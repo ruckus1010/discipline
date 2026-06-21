@@ -1,0 +1,88 @@
+raw_pattern,clean_name,category,subcategory,ownership
+HY-VEE DES MOINES 1148,Hy-Vee,Groceries,Grocery store,Split 60/40
+ALDI 72029,ALDI,Groceries,Grocery store,Split 60/40
+GATEWAY MARKET,Gateway Market (grocery),Groceries,Grocery store,Split 60/40
+"FAREWAY STORES, INC*",Fareway,Groceries,Grocery store,Split 60/40
+WM SUPERCENTER*,Walmart Supercenter,Groceries,General merch,Split 60/40
+PANERA BREAD #203221*,Panera Bread,Coffee/Bakery,Bakery/café,Husband 100%
+WINGSTOP*,Wingstop,Dining Out,Fast food,Split 60/40
+MCDONALD'S*,McDonald's,Dining Out,Fast food,Split 60/40
+CULVERS*,Culver's,Dining Out,Fast food,Split 60/40
+JERSEY MIKES*,Jersey Mike's,Dining Out,Fast food,Split 60/40
+FUZZYS 56101*,Fuzzy's Taco Shop,Dining Out,Restaurant,Split 60/40
+Popeyes 10628*,Popeyes,Dining Out,Fast food,Split 60/40
+TST* BARN TOWN BREWING*,Barn Town Brewing,Dining Out,Bar/brewery,Split 60/40
+TST* SINGLESPEED BREWING*,Singlespeed Brewing,Dining Out,Bar/brewery,Split 60/40
+TST*LUA BREWING COMPANY*,Lua Brewing Company,Dining Out,Bar/brewery,Split 60/40
+TST*ROCA*,Roca,Dining Out,Restaurant,Split 60/40
+TST*THE BREAKFAST CLUB*,The Breakfast Club,Dining Out,Restaurant,Split 60/40
+TST*THE STATION*,The Station,Dining Out,Restaurant,Split 60/40
+TST*GATEWAY MARKET*,Gateway Market (restaurant),Dining Out,Restaurant,Split 60/40
+SQ *SAVOR THE RISE LLC*,Savor the Rise,Coffee/Bakery,Bakery/restaurant,Husband 100%
+SQ *MARS*,Mars,Dining Out,Bar/restaurant,Split 60/40
+EATERY A*,Eatery A,Dining Out,Restaurant,Split 60/40
+EATFUTIEATFUTI.COM*,Eatfuti,Dining Out,Restaurant,Split 60/40
+CAFFREYS SPORTS PUB*,Caffrey's Sports Pub,Dining Out,Bar/restaurant,Split 60/40
+OLD WEST MEXICAN RES*,Old West Mexican Restaurant,Dining Out,Restaurant,Split 60/40
+PARLOR*,Parlor,Dining Out,Bar/restaurant,Split 60/40
+DD *DOORDASH*,DoorDash,Dining Out,Delivery,Split 60/40
+SQ *THE SLOW DOWN COFFEE*,The Slow Down Coffee,Coffee/Bakery,Coffee shop,Husband 100%
+SQ *NORTHERN VESSEL*,Northern Vessel Coffee,Coffee/Bakery,Coffee shop,Husband 100%
+SQ *MIDNIGHT COFFEE*,Midnight Coffee,Coffee/Bakery,Coffee shop,Husband 100%
+SQ *DAISY CHAIN COFFEE*,Daisy Chain Coffee,Coffee/Bakery,Coffee shop,Husband 100%
+SQ *HORIZON LINE COFFEE*,Horizon Line Coffee,Coffee/Bakery,Coffee shop,Husband 100%
+SQ *SIDECAR COFFEE*,Sidecar Coffee,Coffee/Bakery,Coffee shop,Husband 100%
+SQ *CHAIN & SPOKE*,Chain & Spoke,Coffee/Bakery,Coffee/café,Husband 100%
+SQ *THISTLE'S SUMMIT*,Thistle's Summit,Coffee/Bakery,Coffee/café,Husband 100%
+STARBUCKS*,Starbucks,Coffee/Bakery,Coffee shop,Husband 100%
+DUNKIN #351369*,Dunkin',Coffee/Bakery,Coffee shop,Husband 100%
+PY *SCENIC ROUTE BAKERY*,Scenic Route Bakery,Coffee/Bakery,Bakery/café,Husband 100%
+CHA CHAS HILAND BAKERY*,Cha Cha's Hiland Bakery,Coffee/Bakery,Bakery/café,Husband 100%
+QT 559*,QuikTrip,Gas/Transport,Gas station,Split 60/40
+GIT N GO 19*,Git-N-Go,Gas/Transport,Gas station,Split 60/40
+GULF OIL 92068112*,Gulf Oil,Gas/Transport,Gas station,Split 60/40
+BP#1662200 MELBOURNE BP*,BP Gas,Gas/Transport,Gas station,Split 60/40
+CASEYS #2790*,Casey's General Store,Gas/Transport,Gas station,Split 60/40
+DSM PARKING METERS*,DSM Parking Meters,Gas/Transport,Parking,Husband 100%
+IL TOLLWAY -PAY BY PLATE*,Illinois Tollway,Gas/Transport,Tolls,Split 60/40
+SMART HONDA*,Smart Honda (car service),Auto Maintenance,Car repair,Split 60/40
+SALON SPA W*,Salon Spa W,Personal Care,Hair/beauty,Husband 100%
+SP INTAKE BREATHING*,Intake Breathing,Personal Care,Wellness,Split 60/40
+BAREBELLS*,Barebells,Personal Care,Health supplements,Split 60/40
+PY *BUFF CITY SOAP* / BUFF CITY SOAP*,Buff City Soap,Personal Care,Hygiene,Split 60/40
+LIFE EXTENSION*,Life Extension,Personal Care,Health supplements,Split 60/40
+HELMMHELMM.COM*,Helmm,Personal Care,Subscription box,Husband 100%
+PETSMART # 1678*,PetSmart,Pet/Dog,Pet supplies,Split 60/40
+INGERSOLL ANIMAL HOSPITAL*,Ingersoll Animal Hospital,Pet/Dog,Veterinary,Split 60/40
+AH BLANK GOLF COURSE*,Blank Park Golf Course,Golf/Hobbies,Golf,Husband 100%
+JESTER PARK GOLF COURSE*,Jester Park Golf Course,Golf/Hobbies,Golf,Husband 100%
+SQ *KINLEY'S GOLF*,Kinley's Golf,Golf/Hobbies,Golf,Husband 100%
+PHEASANT RIDGE GOLF COURSE*,Pheasant Ridge Golf,Golf/Hobbies,Golf,Husband 100%
+SOUTH HILLS GOLF COURSE*,South Hills Golf Course,Golf/Hobbies,Golf,Husband 100%
+WAVELAND GOLF COURSE*,Waveland Golf Course,Golf/Hobbies,Golf,Husband 100%
+EB *BACOON RIDE*,Bacon Ride (cycling event),Golf/Hobbies,Cycling,Husband 100%
+SPIKE WEEK*,Spike Week (cycling),Golf/Hobbies,Cycling,Husband 100%
+MARK EGLY SPORTS*,Mark Egly Sports,Golf/Hobbies,Sporting goods,Husband 100%
+IN *GUTTER CLEANING IOWA*,Gutter Cleaning Iowa,Home Maintenance,Exterior,Split 60/40
+THE HOME DEPOT #2104*,Home Depot,Home Maintenance,Hardware/home,Split 60/40
+WWP*PREFERRED PEST CONTRO*,Preferred Pest Control,Home Maintenance,Pest control,Split 60/40
+BOARD OF WATER WORKS*,DSM Board of Water Works,Water,Utility,Split 60/40
+PRINCIPAL* XPRINCIPALCWWW*,Principal Financial (life ins.),Life Insurance,Insurance payment,Split 60/40
+CHUCHU DONUTS*,Chuchu Donuts,Coffee/Bakery,Donut shop,Husband 100%
+COT*FLT*,Flight (Cheapoair/Contiki),Travel,Airfare,Split 60/40
+LA28-EVENTIM AXS*,LA28 Olympics tickets,Travel,Events,Split 60/40
+UPS SCS CUSTOMS BROKER*,UPS Customs Broker,Travel,Import fees,Split 60/40
+FLIX BREWHOUSE DES MOINES / TST*FLIX BREWHOUSE*,Flix Brewhouse,Entertainment,Movie/dining,Split 60/40
+CINEMARK 1132*,Cinemark,Entertainment,Movies,Split 60/40
+PALMS THEATRES & IMAX*,Palms Theatres & IMAX,Entertainment,Movies,Split 60/40
+AMAZON MARK* / AMAZON MKTPL* / AMAZON RETA*,Amazon,Shopping,Online,Split 60/40
+SP COVERSTORECOVERSTORE*,Coverstore,Shopping,Accessories,Split 60/40
+stichd sportmerchandise*,Stichd Sport Merchandise,Shopping,Sports apparel,Split 60/40
+SP THE COLLECTIVE*,The Collective,Shopping,Clothing,Split 60/40
+BUFFALO TRACE STORE*,Buffalo Trace Store,Shopping,Alcohol,Split 60/40
+SP ART TERRARIUM*,Art Terrarium,Shopping,Home decor/gift,Split 60/40
+Patreon* Membership*,Patreon,Subscriptions,Creator platform,Husband 100%
+GOOGLE *YouTube Member*,YouTube Premium,Subscriptions,Streaming,Husband 100%
+SQ *SECRET ADMIRER*,Secret Admirer (gift shop),Gifts,Gift shop,Split 60/40
+KALSHI*,Kalshi (prediction market),Fantasy/Hobby $,Prediction market,Husband 100%
+JUD*WHTESIDE CRT (618-IL)*,"Whiteside Court, IL",Uncategorized,Needs review,Split 60/40
